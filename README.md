@@ -28,43 +28,43 @@ This commands includes
 
 ## Output:
 
-NETSTAT:
+## NETSTAT:
 
 ![alt text](image.png)
 
-IPCONFIG:
+## IPCONFIG:
 
 ![alt text](image-1.png)
 
-PING:
+## PING:
 
 ![alt text](image-2.png)
 
-TRACERT:
+## TRACERT:
 
 ![alt text](image-4.png)
 
-NSLOOKUP:
+## NSLOOKUP:
 
 ![alt text](image-3.png)
 
-GETMAC:
+## GETMAC:
 
 ![alt text](image-5.png)
 
-HOSTNAME:
+## HOSTNAME:
 
 ![alt text](image-6.png)
 
-NBTSTAT:
+## NBTSTAT:
 
 ![alt text](image-7.png)
 
-ARP:
+## ARP:
 
 ![alt text](image-8.png)
 
-SYSTEM INFO:
+## SYSTEM INFO:
 
 ![alt text](<Screenshot 2024-10-21 155158.png>)
 
