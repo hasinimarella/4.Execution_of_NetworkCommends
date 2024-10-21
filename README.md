@@ -26,7 +26,49 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
+## Output:
+
+NETSTAT:
+
+![alt text](image.png)
+
+IPCONFIG:
+
+![alt text](image-1.png)
+
+PING:
+
+![alt text](image-2.png)
+
+TRACERT:
+
+![alt text](image-4.png)
+
+NSLOOKUP:
+
+![alt text](image-3.png)
+
+GETMAC:
+
+![alt text](image-5.png)
+
+HOSTNAME:
+
+![alt text](image-6.png)
+
+NBTSTAT:
+
+![alt text](image-7.png)
+
+ARP:
+
+![alt text](image-8.png)
+
+SYSTEM INFO:
+
+![alt text](<Screenshot 2024-10-21 155158.png>)
+
 
 ## Result
-Thus Execution of Network commands Performed 
+Thus Execution of Network commands Performed.
+
